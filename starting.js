@@ -11,11 +11,11 @@ let secondName = "Martinez Santos"
 console.log (firstName, secondName)
 
 
-let Name = "Wonder"
+let mainName = "Wonder"
 let surname = "Woman"
 let job = "super heroine"
 let city = "Themyscira – Also known as Paradise Island"
 let archEnemy = "Cheetah"
-console.log (Name, surname, job, city, archEnemy)
+console.log (mainName, surname, job, city, archEnemy)
 
-console.log("this is a " + job, "famously known as " + Name, surname, "coming from " + city, "and, her arch enemy is " + archEnemy);
+console.log("This is a " + job, "famously known as " + mainName, surname, "coming from " + city, "and, her arch enemy is " + archEnemy);
