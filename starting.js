@@ -15,7 +15,7 @@ let Name = "Wonder"
 let surname = "Woman"
 let job = "super heroine"
 let city = "Themyscira – Also known as Paradise Island"
-let archEnemy = " Cheetah"
+let archEnemy = "Cheetah"
 console.log (Name, surname, job, city, archEnemy)
 
-console.log("this is a " + job, "famously known as " + Name, surname, "coming from " + city, "and her arch enemy is " + archEnemy);
+console.log("this is a " + job, "famously known as " + Name, surname, "coming from " + city, "and, her arch enemy is " + archEnemy);
